@@ -231,6 +231,18 @@ body {
     border-color: #f89af8;
 }
 
+.r{
+    border-color: #ff0000;
+}
+
+.g{
+    border-color: #adff2f;
+}
+
+.b{
+    border-color: #0066ff;
+}
+
 #submit,
 #NewGame {
     margin-top: 10px;
